@@ -38,6 +38,9 @@ The final model uses **ResNet18 transfer learning** for CIFAR-10 image classific
 
 ---
 
+
+<img width="1915" height="926" alt="Image classifier" src="https://github.com/user-attachments/assets/1a092b6b-6e27-46b7-8440-fe83ff6613a5" />
+
 # 🎯 Objectives
 
 The main objectives of this project are to:
